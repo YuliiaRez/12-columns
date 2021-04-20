@@ -1,0 +1,56 @@
+.cardContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-width: 200px;*
+  width: 100%;
+  padding: 0px 15px;
+
+
+}
+
+h5 {
+  font-size: 14px;
+  color: #2d3033;
+  text-transform: uppercase;
+  font-weight: 700;
+  margin: 0 10px;
+}
+
+.info {
+  line-height: 22.4px;
+  margin: 0 0 10px;
+}
+p {
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  text-align: center;
+}
+i {
+  color: #e84545;
+  font-size: 60px;
+  margin-bottom: 25px;
+  font-weight: lighter;
+  font-family: 'elegant-theme-line';
+  font-style: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1
+}
+svg {
+  margin-bottom: 25px;
+  font-weight: lighter;
+  font-family: 'elegant-theme-line';
+  font-style: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1
+}
+path {
+  color: #e84545;
+  fill: currentColor;
+}
